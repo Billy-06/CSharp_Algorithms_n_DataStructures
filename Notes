@@ -1,0 +1,5 @@
+Validation Algorithms
+The output is always a boolean.
+
+using .Contains() is not so efficient. Keep in mind if 
+you use it that it is case sensitive
